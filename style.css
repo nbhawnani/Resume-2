@@ -1,7 +1,4 @@
-html, body {
-  height: 100%;
-  width: 100%;
-}
+
 
 body{
   padding:2px;
@@ -15,6 +12,7 @@ body{
 header{
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   letter-spacing: 3px;
+  color:darkgreen;
 }
 
 h1{
@@ -22,3 +20,17 @@ h1{
   text-transform: uppercase;
 }
 
+.maroon {
+  color:maroon;
+}
+
+#Extra{
+  background-color: lightblue;
+  color:darkblue;
+}
+
+.clsFooter{
+  background-color: lightgray;
+  color:maroon;
+  font-weight: bold;
+}
